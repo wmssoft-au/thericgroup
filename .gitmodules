@@ -1,0 +1,4 @@
+[submodule "ajepe/odoo-addons"]
+	path = ajepe/odoo-addons
+	url = git@github.com:ajepe/odoo-addons.git
+	branch = 12.0
